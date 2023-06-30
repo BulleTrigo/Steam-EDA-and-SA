@@ -2,6 +2,8 @@
 # Steam Store Exploratory Data Analysis & Sentiment Analysis
 
 This project aims to perform an exploratory data analysis and sentiment analysis on the Steam Store dataset. The Steam Store is a popular digital distribution platform for video games, and this project will provide insights into the games available on the platform.
+Nbviewer Link EDA : https://nbviewer.org/github/BulleTrigo/Steam-EDA-and-SA/blob/main/SteamEDA.ipynb
+Nbviewer Link SA : https://nbviewer.org/github/BulleTrigo/Steam-EDA-and-SA/blob/main/SteamSA.ipynb
 
 
 ## Dataset
